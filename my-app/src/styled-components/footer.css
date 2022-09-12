@@ -1,0 +1,21 @@
+
+.footer-div {
+  margin-top: 24px;
+  background: #161619;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 73px;
+  border-radius: 0 0 10px 10px;
+}
+
+.btn-btn {
+  width: 25px;
+  transition: 0.2s;
+}
+
+.btn-btn:hover,
+.btn-btn:active {
+  filter: brightness(2);
+  cursor: pointer;
+  transform: scale(1.2);
+}
