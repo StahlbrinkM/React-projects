@@ -1,9 +1,9 @@
 import React from "react"
-import "./styled-components/footer.css"
-import Twitter from "./assets/twitter-logo.png"
-import Facebook from "./assets/facebook-logo.png"
-import Instagram from "./assets/instagram-logo.png"
-import Github from "./assets/github-logo.png"
+import "../styled-components/footer.css"
+import Twitter from "../assets/twitter-logo.png"
+import Facebook from "../assets/facebook-logo.png"
+import Instagram from "../assets/instagram-logo.png"
+import Github from "../assets/github-logo.png"
 
 
 function Footer() {

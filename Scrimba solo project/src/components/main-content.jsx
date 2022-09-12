@@ -1,8 +1,8 @@
 import React from 'react'
-import Filler from "./assets/filler.jpg"
-import Email from "./assets/email-logo.png"
-import LinkedIn from "./assets/linkedin-logo.png"
-import "./styled-components/main.css"
+import Filler from "../assets/filler.jpg"
+import Email from "../assets/email-logo.png"
+import LinkedIn from "../assets/linkedin-logo.png"
+import "../styled-components/main.css"
 
 function MainContent() {
 
